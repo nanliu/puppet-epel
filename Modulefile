@@ -1,4 +1,4 @@
-name    'stahnma-epel'
+name    'nanliu-epel'
 version '0.0.5'
 source 'http://github.com/stahnma/puppet-module-epel'
 author 'stahnma'
